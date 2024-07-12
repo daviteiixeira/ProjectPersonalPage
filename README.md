@@ -9,4 +9,4 @@ A simple personal page.
 All technologs in your state pure.
 
 # Result
-Click here for to see the result: 
+Click here for to see the result:
