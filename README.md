@@ -1,2 +1,12 @@
-# ProjectPersonalPage
-A simple project for to exercise my skills using the basic of front-end.
+# About
+A simple personal page.
+
+# Technologs
+- Html
+- Css
+- JavaScript
+
+All technologs in your state pure.
+
+# Result
+Click here for to see the result: 
