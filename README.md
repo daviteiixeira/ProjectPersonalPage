@@ -9,7 +9,7 @@ A simple personal page.
 All technologs in your state pure.
 
 # Result
-Click here for to see the result: <a src="https://daviteiixeira.github.io/ProjectPersonalPage/">Site</a>
+Click here for to see the result: [Site](https://daviteiixeira.github.io/ProjectPersonalPage/)
 
 # Nota
 My challenges:
