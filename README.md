@@ -2,8 +2,8 @@
 A simple personal page.
 
 # Technologs
-- Html
-- Css
+- Html5
+- CSS3
 - JavaScript
 
 All technologs in your state pure.
